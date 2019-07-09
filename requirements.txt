@@ -1,0 +1,3 @@
+numpy==1.16.4
+cozmo==1.4.10
+cozmoclad==3.4.0
